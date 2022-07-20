@@ -74,3 +74,4 @@ goog_signal.price[goog_signal.positions == -1.0],
 'v', markersize=7, color='k',label='sell')
 plt.legend()
 plt.show()
+
